@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "timelens",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tile_count" : [ 3.0, 3.0 ],
+					"sc.texture.syphon.input::drawto" : [ "time" ],
+					"sc.texture.syphon.input::servername" : [ "UltraStudio HD Mini" ],
+					"sc.texture.syphon.input::appname" : [ "Black Syphon" ],
+					"sc.texture.tiles::drawto" : [ "time" ],
+					"sc.texture.tiles::grid_size" : [ 3.0, 3.0 ],
+					"sc.texture.timespace.luma::bypass" : [ 0.0 ],
+					"sc.texture.timespace.luma::bypass[1]" : [ 512.0 ],
+					"sc.texture.timespace.luma::sc.texture.rgb2luma::rscale" : [ 0.299 ],
+					"sc.texture.timespace.luma::sc.texture.rgb2luma::gscale" : [ 0.587 ],
+					"sc.texture.timespace.luma::sc.texture.rgb2luma::bscale" : [ 0.114 ],
+					"sc.texture.timespace.luma::sc.texture.rgb2luma::bypass" : [ 0.0 ],
+					"sc.texture.timespace.luma::filter" : [ "none" ],
+					"sc.texture.syphon.out::servername" : [ "timespace" ],
+					"sc.texture.syphon.out::drawto" : [ "time" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
