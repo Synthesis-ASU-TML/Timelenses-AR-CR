@@ -5,7 +5,7 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"tile_count" : [ 3.0, 3.0 ],
+					"tile_count" : [ 0 ],
 					"sc.texture.syphon.input::drawto" : [ "time" ],
 					"sc.texture.syphon.input::servername" : [ "UltraStudio HD Mini" ],
 					"sc.texture.syphon.input::appname" : [ "Black Syphon" ],
